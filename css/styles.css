@@ -1,0 +1,33 @@
+body{
+  background-color: #eae3c8;
+}
+h1{
+  color: #c1a1d3;
+}
+
+h3{
+  color: #eb596e;
+}
+
+hr{
+  background-color: ;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  height: 0px;
+  width: 10%;
+}
+/*img{
+  height: 150px;
+}
+*/
+.Me{
+  background-color: gold;
+
+  height: 150px;
+}
+/*.Me:hover{
+  height:150px;
+}
+*/
